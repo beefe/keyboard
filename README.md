@@ -102,7 +102,7 @@ class App extends React.Component {
 ## Props
 
 #### keyboardType
-Type: enum('number-pad', 'decimal-pad');
+Type: enum('number-pad', 'decimal-pad','number-pad-comma');
 
 #### onKeyPress
 Type: func
